@@ -11,7 +11,7 @@ source ./snapshot.bash
 DATE=$(date +"%m/%d/%Y:%T")
 DIR="/mnt/grl/sequencers"
 LOGDIR="/mnt/grl/log"
-EMAIL="mkunze@biotech.wisc.edu"
+EMAIL="email@address"
 EMAILSUBJECT="Sequencers Snapshot Status"
 
 # Run sourced functions from snapshot.bash
